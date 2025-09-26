@@ -1,1 +1,1 @@
-# ascii_globe.io
+# ascii_globe
